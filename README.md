@@ -1,3 +1,5 @@
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
+
 ### 🤵 Who am I?
 
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.skaalum.tech%2Fbadges%2Fname)
@@ -10,7 +12,7 @@
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.skaalum.tech%2Fbadges%2Fcity)
 
 #### 😄 Social
-| [<img src="logos/social/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/lasse-skaalum/) | [<img src="logos/social/aau.png" alt="aau logo" width="24">](https://vbn.aau.dk/da/persons/lasse-damsgaard-skaalum) | <a href="mailto:lasse@skaalum.tech"><img src="logos/social/mail.png" alt="mail logo" width="24"></a> |
+| [<img src="logos/social/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/lasse-skaalum/) | [<img src="logos/social/aau.png" alt="aau logo" width="24">](https://vbn.aau.dk/da/persons/lasse-damsgaard-skaalum) | [<img src="logos/social/mail.png" alt="mail logo" width="24">](mailto:lasse@skaalum.tech) |
 |------|---|---|
 
 #### ⌨ Languages/Frameworks
