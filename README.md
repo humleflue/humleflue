@@ -12,7 +12,7 @@
 #### ⌨ Languages/Frameworks
 
 | [<img src="logos/languages-frameworks/typescript.png" alt="typescript logo" width="24">](https://www.typescriptlang.org/) | [<img src="logos/languages-frameworks/nodejs.png" alt="nodejs logo" width="24">](https://nodejs.org/) |[<img src="logos/languages-frameworks/javascript.png" alt="js logo" width="24">](https://www.javascript.com/) | [<img src="logos/languages-frameworks/c-sharp.png" alt="csharp logo" width="24">](https://docs.microsoft.com/en-us/dotnet/csharp/) | [<img src="logos/languages-frameworks/entity-framework-core.png" alt="efcore logo" width="24">](https://docs.microsoft.com/en-us/ef/core/) | [<img src="logos/languages-frameworks/c.png" alt="c logo" width="24">](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference)   |
-|------|---|---|---|---|
+|------|---|---|---|---|---|
 
 #### 🔧 Tools
 
