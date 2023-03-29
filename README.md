@@ -3,7 +3,7 @@
 ### 🤵 Who am I?
 
 #### 😄 Social
-| [<img src="logos/social/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/lasse-skaalum/) | [<img src="logos/social/aau.png" alt="aau logo" width="24">](https://vbn.aau.dk/da/persons/lasse-damsgaard-skaalum) | [<img src="logos/social/mail.png" alt="mail logo" width="24">](mailto:lasse-skaalum@gmail.com) |
+| [<img src="logos/social/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/lasse-skaalum/) | [<img src="logos/social/aau.png" alt="aau logo" width="24">](https://vbn.aau.dk/da/persons/lasse-damsgaard-skaalum) | [<img src="logos/social/mail.png" alt="mail logo" width="24">](mailto:lasse.skaalum@gmail.com) |
 |------|---|---|
 
 #### ⌨ Languages/Frameworks
@@ -13,5 +13,5 @@
 
 #### 🔧 Tools
 
-|[<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/)| [<img src="logos/tools/visual-studio.png" alt="vs logo" width="24">](https://visualstudio.microsoft.com/vs/)|[<img src="logos/tools/visual-studio-code.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)|[<img src="logos/tools/windows-terminal.png" alt="windows terminal logo" width="24">](https://github.com/microsoft/terminal)| [<img src="logos/tools/powershell.png" alt="powershell logo" width="24">](https://docs.microsoft.com/en-us/powershell/scripting/overview) | [<img src="logos/tools/linux.png" alt="linux logo" width="24">](https://www.linux.org/) | [<img src="logos/tools/trello.png" alt="trello logo" width="24">](https://trello.com/) |
-|------|---|---|---|---|---|---|
+|[<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/)| [<img src="logos/tools/visual-studio.png" alt="vs logo" width="24">](https://visualstudio.microsoft.com/vs/)|[<img src="logos/tools/visual-studio-code.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)|[<img src="logos/tools/windows-terminal.png" alt="windows terminal logo" width="24">](https://github.com/microsoft/terminal)| [<img src="logos/tools/powershell.png" alt="powershell logo" width="24">](https://docs.microsoft.com/en-us/powershell/scripting/overview) | [<img src="logos/tools/linux.png" alt="linux logo" width="24">](https://www.linux.org/) | 
+|------|---|---|---|---|---|
